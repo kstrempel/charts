@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fake-sqs:
+  - apiVersion: v0.3.1
+    appVersion: 0.3.1
+    created: 2018-07-24T13:36:15.391140057+02:00
+    description: A Helm chart for Fake SQS
+    digest: c16eae439c748ef210cc5fe15d27898ca12838c621d83238ba11a8c27eb3deca
+    name: fake-sqs
+    urls:
+    - fake-sqs-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-24T13:36:15.389767502+02:00
+
